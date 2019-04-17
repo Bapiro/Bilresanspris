@@ -1,0 +1,22 @@
+{
+  "name": "mevn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bapiro/MEVN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bapiro/MEVN/issues"
+  },
+  "homepage": "https://github.com/Bapiro/MEVN#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
